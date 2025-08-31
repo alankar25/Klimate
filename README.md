@@ -1,4 +1,4 @@
-# Weather App with Next JS, React, Tanstack Query, Shadcn UI, Recharts, Tailwind, Typescript Tutorial 🔥🔥
+# Klimate
 
 ### Make sure to create a `.env` file with following variables -
 
